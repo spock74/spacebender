@@ -1,0 +1,5 @@
+language:node_js
+node_js: - "6"
+
+before_install
+openssl aes-256-cbc -K $encrypted_ff51d1f740ef_key -iv $encrypted_ff51d1f740ef_iv -in envcrypt.enc -out envcrypt -d
