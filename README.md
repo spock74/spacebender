@@ -1,4 +1,4 @@
-## Uber simple testing Uber nodejs API
+## Uber simple test of Uber nodejs API
 
 ----
 
