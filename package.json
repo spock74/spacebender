@@ -1,0 +1,23 @@
+{
+  "name": "spacebender",
+  "version": "0.0.0",
+  "description": "testing Uber API for Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spock74/spacebender.git"
+  },
+  "keywords": [
+    "Uber",
+    "nodejs"
+  ],
+  "author": "Jose Moraes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spock74/spacebender/issues"
+  },
+  "homepage": "https://github.com/spock74/spacebender#readme"
+}
