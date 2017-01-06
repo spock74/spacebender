@@ -3,9 +3,6 @@
   "version": "0.0.0",
   "description": "testing Uber API for Nodejs",
   "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/spock74/spacebender.git"
